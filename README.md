@@ -62,7 +62,7 @@ php artisan key:generate
 php artisan migrate
 ```
 
-🧼 Дополнительно
+## 🧼 Дополнительно
 + Используется мягкое удаление (softDeletes)
 
 + AJAX на чистом JS (Fetch API)
